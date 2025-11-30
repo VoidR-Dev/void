@@ -1,5 +1,3 @@
-# void
-# void
-# void
-# void
-# void
+# Void project
+
+Моё тестовое задание
