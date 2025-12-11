@@ -101,4 +101,4 @@ docker-compose.override.yml
 
 # Кэш Python
 instance/
-.webassets-cache
+.webassets-cache.vscode-server/
