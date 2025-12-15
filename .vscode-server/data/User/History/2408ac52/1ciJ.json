@@ -1,0 +1,8 @@
+{
+    "workbench.iconTheme": "bearded-icons",
+    "workbench.colorTheme": "Bearded Theme Monokai Metallian",
+    "database-client.autoSync": true,
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "workbench.editor.empty.hint": "hidden",
+    "files.autoSave": "afterDelay"
+}
